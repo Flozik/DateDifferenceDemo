@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DateDifferenceDemo</string>
+    <string name="calculate_the_difference">Calculate the difference</string>
+</resources>
